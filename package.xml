@@ -4,6 +4,7 @@
   <description>
       Python wrappers for converting Boost C++ datatypes into Numpy objects.
   </description>
+  <url type="website">http://ros.org/wiki/boost_numpy</url>
   <maintainer email="kphawkins@gatech.edu">Kelsey Hawkins</maintainer>
   <license>See README</license>
 
