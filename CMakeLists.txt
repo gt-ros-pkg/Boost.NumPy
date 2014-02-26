@@ -39,7 +39,7 @@ add_definitions(-fPIC)
 
 # global settings for include paths
 include_directories(
-  boost
+  ${PROJECT_SOURCE_DIR}
   ${catkin_INCLUDE_DIRS}
   ${PYTHON_INCLUDE_DIRS}
   ${NUMPY_INCLUDE_DIRS}
