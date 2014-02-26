@@ -25,7 +25,7 @@ message( STATUS "found boost:"
 )
 
 catkin_package(
-  INCLUDE_DIRS boost
+  INCLUDE_DIRS ${PROJECT_SOURCE_DIR}
   LIBRARIES boost_numpy
 #  DEPENDS system_lib
 )
